@@ -6,3 +6,7 @@ There is honestly no reason why you should get a virus from downloading an auto-
 Use this to cheat on cookie-clicker or something.
 
 
+# Reflection (4-27-2024)
+
+Still works :)
+Useful when playing IDE games.
